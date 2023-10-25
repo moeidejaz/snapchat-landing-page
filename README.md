@@ -6,7 +6,7 @@
 
 I've meticulously crafted a representation of Snapchat's renowned landing page. I've recreated every detail, from the vibrant colors and captivating imagery to the smooth animations and user-friendly interface.
 
-Here's my version of [Snapchat's landing page](https://moeidsnapchat.netlify.app). Its intuitive design and responsive layout offer an immersive experience that faithfully mirrors the original, showcasing my web development skills.
+Here's my version of [Snapchat's landing page](https://snapchat-landing-page.netlify.app/). Its intuitive design and responsive layout offer an immersive experience that faithfully mirrors the original, showcasing my web development skills.
 
 
 
