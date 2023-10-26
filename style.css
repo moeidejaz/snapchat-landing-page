@@ -194,13 +194,15 @@ a,
 }
 
 .drop-down {
+    width: 300px;
     position: absolute;
     top: 2.8rem;
     right: 1.2rem;
     background-color: #fff;
-    padding: 1rem 1rem 0.75rem 1rem;
-    width: 300px;
+    border-radius: 10px;
+    box-shadow: 0px 0px 10px 0px #888888b4;
     animation: dropdowm 0.3s ease-in-out 0s;
+    padding: 0.75rem 1rem 0.1rem 1rem;
 }
 
 .toggle {
@@ -215,7 +217,7 @@ a,
     display: flex;
     justify-content: space-between;
     align-items: center;
-    padding: 0px 0px 8px 0px;
+    padding: 0px 0px 4px 0px;
 }
 
 
