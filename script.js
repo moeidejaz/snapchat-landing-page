@@ -17,10 +17,8 @@ title.forEach(tt => {
 
         if (icon.classList.contains("fa-chevron-down")) {
             icon.classList.replace("fa-chevron-down", "fa-chevron-up")
-            console.log("if");
         } else {
             icon.classList.replace("fa-chevron-up", "fa-chevron-down")
-            console.log("else");
     
         }
 
@@ -92,17 +90,13 @@ if (navigator.userAgent.indexOf("Android") !== -1) {
 if (OperatingSystem === "Android") {
     install.forEach(data => {
         data.href = "https://play.google.com/store/apps/details?id=com.snapchat.android&hl=en&gl=US&pli=1";
-        console.log(data);
     })
 } else {
 
     install.forEach(data => {
         data.href = "https://apps.apple.com/us/app/snapchat/id447188370";
-        console.log(data);
     })
 }
-
-console.log("os: " + OperatingSystem)
 
 // HEADER STICK DUMP
 
